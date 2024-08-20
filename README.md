@@ -38,3 +38,7 @@ It supports decision-making processes by providing actionable insights into sale
 This dashboard is just a mock-up with modified data for testing purposes.
 Desinged by Fernando Silva.
 
+![Sales Analysis report(v2) (2)_page-0001](https://github.com/user-attachments/assets/1f3f4e81-20d9-4a2f-8886-df6179605029)
+
+
+
